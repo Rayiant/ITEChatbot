@@ -1,0 +1,50 @@
+# Unity generated files and folders
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/Assets/AssetStoreTools/
+/Assets/AssetStoreTools/Editor/
+/Assets/AssetStoreTools/Editor/AssetStoreTools.dll
+/Assets/AssetStoreTools/Editor/AssetStoreTools.dll.meta
+/Assets/AssetStoreTools/Editor/AssetStoreTools.pdb
+/Assets/AssetStoreTools/Editor/AssetStoreTools.pdb.meta
+
+# Visual Studio / Rider / IDE generated files
+.vs/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+
+# macOS specific files
+.DS_Store
+
+# Windows specific files
+Thumbs.db
+
+# Crash reports
+/[Cc]rash[Rr]eports/
+
+# Persistent data generated at runtime
+/Assets/StreamingAssets/
+/Assets/Resources/
+/Assets/Plugins/Android/libs/
+/Assets/Plugins/iOS/libs/
+
+# Local cache for assets, shaders, etc.
+# This can be large and should not be versioned
+**/[Ll]ibrary/
+
+# Temporary files created by subsystems like lighting and occlusion
+**/[Tt]emp/
+
+# Optional: Ignore specific files or file types if desired
+# For example, to ignore all PNG files:
+# *.png
